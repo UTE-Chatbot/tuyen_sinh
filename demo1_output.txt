@@ -1,0 +1,389 @@
+(nlp_v1) PS D:\source_code\nlp\ute\tuyen_sinh>
+(nlp_v1) PS D:\source_code\nlp\ute\tuyen_sinh> ls
+
+
+    Directory: D:\source_code\nlp\ute\tuyen_sinh
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2/27/2025   9:41 AM           2820 demo_rag_tuyen_sinh_vi.py
+-a----         2/27/2025   9:43 AM          12776 tuyen_sinh_vi.txt
+
+
+(nlp_v1) PS D:\source_code\nlp\ute\tuyen_sinh>
+(nlp_v1) PS D:\source_code\nlp\ute\tuyen_sinh> python demo_rag_tuyen_sinh_vi.py
+Loaded 10 entries
+Added chunk 1/10 to the database
+Added chunk 2/10 to the database
+Added chunk 3/10 to the database
+Added chunk 4/10 to the database
+Added chunk 5/10 to the database
+Added chunk 6/10 to the database
+Added chunk 7/10 to the database
+Added chunk 8/10 to the database
+Added chunk 9/10 to the database
+Added chunk 10/10 to the database
+
+
+
+--- Start conversation. ---
+Ask me a question: Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) là trường Đại học công lập hay trường tư?
+Retrieved knowledge:
+ - (similarity: 0.80) Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) là một trường đại học công lập trực thuộc Bộ Giáo dục và Đào tạo, nổi bật với bề dày lịch sử 63 năm hình thành – phát triển vượt bậc và chất lượng đào tạo hàng đầu trong lĩnh vực kỹ thuật và công nghệ.
+
+ - (similarity: 0.73) Một số điểm mạnh/ ưu thế/ lý do nên học tập tại Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE): Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) là trường Công lập với bề dày lịch sử trên 60 năm, thương hiệu hàng đầu phía Nam.\nTỷ lệ có việc làm đúng chuyên ngành đào tạo rất cao, trên 90%. Được các tập đoàn, doanh nghiệp hàng đầu ưu tiên tuyển dụng.\nChương trình đào tạo đạt chuẩn quốc tế và khu vực, các chương trình liên kết quốc tế, đáp ứng xu thế hội nhập và đào tạo công dân toàn cầu.\nĐội ngũ giảng viên được đào tạo bài bản, trình độ cao, nhiều kinh nghiệm thực tiễn, tận tâm. CBVC phục vụ chuyên nghiệp, chu đáo.\nPhòng học, phòng Lab/thực tập tiên tiến, đầy đủ, đa dạng; 100% được trang bị máy lạnh.\nĐầy ắp các sân chơi học thuật, câu lạc bộ nghiên cứu khoa học, sáng tạo - khởi nghiệp.\nCác hoạt động văn thể mỹ đa dạng, hấp dẫn giúp sinh viên phát triển toàn diện.\nVới triết lý giáo dục Nhân Bản, Trường dành quỹ học bổng lớn hỗ trợ sinh viên. Không để sinh viên phải bỏ học vì không có tiền đóng học phí.\nKhuôn viên Trường trên 17 hecta - xanh - sạch - đẹp; là nơi lý tưởng để sinh viên học tập, nghiên cứu và phát triển bản thân.\nVị trí Trường đắc địa: trung tâm Thành phố Thủ Đức, kế bên ga tàu Metro, sát bên Khu Công nghệ Cao Tp. HCM, cộng đồng dân cư bên ngoài trường sạch đẹp, dân trí cao.
+
+ - (similarity: 0.64) Một trong những ưu thế trong chương trình đào tạo của Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh là sinh viên tốt nghiệp không chỉ có nền tảng lý thuyết vững chắc mà còn sở hữu kỹ năng thực hành chuyên sâu. Trong suốt 4 đến 4,5 năm học, sinh viên dành nhiều thời gian thực hành tại các phòng thí nghiệm và xưởng thực tập, giúp họ phát triển tay nghề một cách bài bản. Đặc biệt, sinh viên HCMUTE không chỉ giỏi chuyên môn mà còn có kỹ năng sư phạm tốt, vừa có thể thực hiện các công việc chuyên môn, vừa thuyết trình và truyền đạt kiến thức một cách hiệu quả. Nhờ khả năng xử lý tình huống kỹ thuật – công nghệ nhanh nhạy và thành thạo, sinh viên tốt nghiệp từ HCMUTE luôn được các nhà tuyển dụng đánh giá cao, với mức độ hài lòng ở mức rất cao.
+
+Chatbot response:
+Theo thông tin trên, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) là trường Đại học công lập.
+
+
+
+
+======================================
+
+
+
+--- Start conversation. ---
+Ask me a question: Vị trí Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) thuận lợi như thế nào cho sinh viên?
+Retrieved knowledge:
+ - (similarity: 0.80) Một số điểm mạnh/ ưu thế/ lý do nên học tập tại Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE): Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) là trường Công lập với bề dày lịch sử trên 60 năm, thương hiệu hàng đầu phía Nam.\nTỷ lệ có việc làm đúng chuyên ngành đào tạo rất cao, trên 90%. Được các tập đoàn, doanh nghiệp hàng đầu ưu tiên tuyển dụng.\nChương trình đào tạo đạt chuẩn quốc tế và khu vực, các chương trình liên kết quốc tế, đáp ứng xu thế hội nhập và đào tạo công dân toàn cầu.\nĐội ngũ giảng viên được đào tạo bài bản, trình độ cao, nhiều kinh nghiệm thực tiễn, tận tâm. CBVC phục vụ chuyên nghiệp, chu đáo.\nPhòng học, phòng Lab/thực tập tiên tiến, đầy đủ, đa dạng; 100% được trang bị máy lạnh.\nĐầy ắp các sân chơi học thuật, câu lạc bộ nghiên cứu khoa học, sáng tạo - khởi nghiệp.\nCác hoạt động văn thể mỹ đa dạng, hấp dẫn giúp sinh viên phát triển toàn diện.\nVới triết lý giáo dục Nhân Bản, Trường dành quỹ học bổng lớn hỗ trợ sinh viên. Không để sinh viên phải bỏ học vì không có tiền đóng học phí.\nKhuôn viên Trường trên 17 hecta - xanh - sạch - đẹp; là nơi lý tưởng để sinh viên học tập, nghiên cứu và phát triển bản thân.\nVị trí Trường đắc địa: trung tâm Thành phố Thủ Đức, kế bên ga tàu Metro, sát bên Khu Công nghệ Cao Tp. HCM, cộng đồng dân cư bên ngoài trường sạch đẹp, dân trí cao.
+
+ - (similarity: 0.76) Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) là một trường đại học công lập trực thuộc Bộ Giáo dục và Đào tạo, nổi bật với bề dày lịch sử 63 năm hình thành – phát triển vượt bậc và chất lượng đào tạo hàng đầu trong lĩnh vực kỹ thuật và công nghệ.
+
+ - (similarity: 0.72) Một trong những ưu thế trong chương trình đào tạo của Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh là sinh viên tốt nghiệp không chỉ có nền tảng lý thuyết vững chắc mà còn sở hữu kỹ năng thực hành chuyên sâu. Trong suốt 4 đến 4,5 năm học, sinh viên dành nhiều thời gian thực hành tại các phòng thí nghiệm và xưởng thực tập, giúp họ phát triển tay nghề một cách bài bản. Đặc biệt, sinh viên HCMUTE không chỉ giỏi chuyên môn mà còn có kỹ năng sư phạm tốt, vừa có thể thực hiện các công việc chuyên môn, vừa thuyết trình và truyền đạt kiến thức một cách hiệu quả. Nhờ khả năng xử lý tình huống kỹ thuật – công nghệ nhanh nhạy và thành thạo, sinh viên tốt nghiệp từ HCMUTE luôn được các nhà tuyển dụng đánh giá cao, với mức độ hài lòng ở mức rất cao.
+
+Chatbot response:
+Vị trí của Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) là trung tâm Thành phố Thủ Đức, kế bên ga tàu Metro, sát bên Khu Công nghệ Cao Tp. HCM, cộng đồng dân cư bên ngoài trường sạch đẹp, dân trí cao.
+
+
+
+
+======================================
+
+
+
+--- Start conversation. ---
+Ask me a question: Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) nằm ở đâu?
+Retrieved knowledge:
+ - (similarity: 0.77) Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) là một trường đại học công lập trực thuộc Bộ Giáo dục và Đào tạo, nổi bật với bề dày lịch sử 63 năm hình thành – phát triển vượt bậc và chất lượng đào tạo hàng đầu trong lĩnh vực kỹ thuật và công nghệ.
+
+ - (similarity: 0.76) Một số điểm mạnh/ ưu thế/ lý do nên học tập tại Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE): Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) là trường Công lập với bề dày lịch sử trên 60 năm, thương hiệu hàng đầu phía Nam.\nTỷ lệ có việc làm đúng chuyên ngành đào tạo rất cao, trên 90%. Được các tập đoàn, doanh nghiệp hàng đầu ưu tiên tuyển dụng.\nChương trình đào tạo đạt chuẩn quốc tế và khu vực, các chương trình liên kết quốc tế, đáp ứng xu thế hội nhập và đào tạo công dân toàn cầu.\nĐội ngũ giảng viên được đào tạo bài bản, trình độ cao, nhiều kinh nghiệm thực tiễn, tận tâm. CBVC phục vụ chuyên nghiệp, chu đáo.\nPhòng học, phòng Lab/thực tập tiên tiến, đầy đủ, đa dạng; 100% được trang bị máy lạnh.\nĐầy ắp các sân chơi học thuật, câu lạc bộ nghiên cứu khoa học, sáng tạo - khởi nghiệp.\nCác hoạt động văn thể mỹ đa dạng, hấp dẫn giúp sinh viên phát triển toàn diện.\nVới triết lý giáo dục Nhân Bản, Trường dành quỹ học bổng lớn hỗ trợ sinh viên. Không để sinh viên phải bỏ học vì không có tiền đóng học phí.\nKhuôn viên Trường trên 17 hecta - xanh - sạch - đẹp; là nơi lý tưởng để sinh viên học tập, nghiên cứu và phát triển bản thân.\nVị trí Trường đắc địa: trung tâm Thành phố Thủ Đức, kế bên ga tàu Metro, sát bên Khu Công nghệ Cao Tp. HCM, cộng đồng dân cư bên ngoài trường sạch đẹp, dân trí cao.
+
+ - (similarity: 0.64) Một trong những ưu thế trong chương trình đào tạo của Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh là sinh viên tốt nghiệp không chỉ có nền tảng lý thuyết vững chắc mà còn sở hữu kỹ năng thực hành chuyên sâu. Trong suốt 4 đến 4,5 năm học, sinh viên dành nhiều thời gian thực hành tại các phòng thí nghiệm và xưởng thực tập, giúp họ phát triển tay nghề một cách bài bản. Đặc biệt, sinh viên HCMUTE không chỉ giỏi chuyên môn mà còn có kỹ năng sư phạm tốt, vừa có thể thực hiện các công việc chuyên môn, vừa thuyết trình và truyền đạt kiến thức một cách hiệu quả. Nhờ khả năng xử lý tình huống kỹ thuật – công nghệ nhanh nhạy và thành thạo, sinh viên tốt nghiệp từ HCMUTE luôn được các nhà tuyển dụng đánh giá cao, với mức độ hài lòng ở mức rất cao.
+
+Chatbot response:
+Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) nằm ở Thành phố Thủ Đức, khu vực Tây Nam thành phố Hồ Chí Minh.
+
+
+
+
+======================================
+
+
+
+--- Start conversation. ---
+Ask me a question: Hãy nêu cho em biết 1 vài lý do để em mạnh dạn chọn HCMUTE để học đại học?
+Retrieved knowledge:
+ - (similarity: 0.70) Một số điểm mạnh/ ưu thế/ lý do nên học tập tại Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE): Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) là trường Công lập với bề dày lịch sử trên 60 năm, thương hiệu hàng đầu phía Nam.\nTỷ lệ có việc làm đúng chuyên ngành đào tạo rất cao, trên 90%. Được các tập đoàn, doanh nghiệp hàng đầu ưu tiên tuyển dụng.\nChương trình đào tạo đạt chuẩn quốc tế và khu vực, các chương trình liên kết quốc tế, đáp ứng xu thế hội nhập và đào tạo công dân toàn cầu.\nĐội ngũ giảng viên được đào tạo bài bản, trình độ cao, nhiều kinh nghiệm thực tiễn, tận tâm. CBVC phục vụ chuyên nghiệp, chu đáo.\nPhòng học, phòng Lab/thực tập tiên tiến, đầy đủ, đa dạng; 100% được trang bị máy lạnh.\nĐầy ắp các sân chơi học thuật, câu lạc bộ nghiên cứu khoa học, sáng tạo - khởi nghiệp.\nCác hoạt động văn thể mỹ đa dạng, hấp dẫn giúp sinh viên phát triển toàn diện.\nVới triết lý giáo dục Nhân Bản, Trường dành quỹ học bổng lớn hỗ trợ sinh viên. Không để sinh viên phải bỏ học vì không có tiền đóng học phí.\nKhuôn viên Trường trên 17 hecta - xanh - sạch - đẹp; là nơi lý tưởng để sinh viên học tập, nghiên cứu và phát triển bản thân.\nVị trí Trường đắc địa: trung tâm Thành phố Thủ Đức, kế bên ga tàu Metro, sát bên Khu Công nghệ Cao Tp. HCM, cộng đồng dân cư bên ngoài trường sạch đẹp, dân trí cao.
+
+ - (similarity: 0.66) Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) là một trường đại học công lập trực thuộc Bộ Giáo dục và Đào tạo, nổi bật với bề dày lịch sử 63 năm hình thành – phát triển vượt bậc và chất lượng đào tạo hàng đầu trong lĩnh vực kỹ thuật và công nghệ.
+
+ - (similarity: 0.63) Một trong những ưu thế trong chương trình đào tạo của Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh là sinh viên tốt nghiệp không chỉ có nền tảng lý thuyết vững chắc mà còn sở hữu kỹ năng thực hành chuyên sâu. Trong suốt 4 đến 4,5 năm học, sinh viên dành nhiều thời gian thực hành tại các phòng thí nghiệm và xưởng thực tập, giúp họ phát triển tay nghề một cách bài bản. Đặc biệt, sinh viên HCMUTE không chỉ giỏi chuyên môn mà còn có kỹ năng sư phạm tốt, vừa có thể thực hiện các công việc chuyên môn, vừa thuyết trình và truyền đạt kiến thức một cách hiệu quả. Nhờ khả năng xử lý tình huống kỹ thuật – công nghệ nhanh nhạy và thành thạo, sinh viên tốt nghiệp từ HCMUTE luôn được các nhà tuyển dụng đánh giá cao, với mức độ hài lòng ở mức rất cao.
+
+Chatbot response:
+Dựa vào thông tin trên, có thể thấy một số lý do để em mạnh dạn chọn HCMUTE để học đại học:
+
+- Được ưu tiên tuyển dụng bởi các tập đoàn, doanh nghiệp hàng đầu tại Việt Nam, giúp sinh viên có cơ hội được đào tạo và phát triển công việc.
+- Chương trình đào tạo đạt chuẩn quốc tế và khu vực, đáp ứng xu thế hội nhập và đào tạo công dân toàn cầu.
+- Đội ngũ giảng viên được đào tạo bài bản, trình độ cao, nhiều kinh nghiệm thực tiễn, tận tâm.
+- Phòng học, phòng Lab/thực tập tiên tiến, đầy đủ, đa dạng; 100% được trang bị máy lạnh, giúp sinh viên có điều kiện tốt để học tập và nghiên cứu.
+- Khuôn viên Trường trên 17 hecta - xanh - sạch - đẹp, là nơi lý tưởng để sinh viên học tập, nghiên cứu và phát triển bản thân.
+- Vị trí Trường đắc địa: trung tâm Thành phố Thủ Đức, kế bên ga tàu Metro, sát bên Khu Công nghệ Cao Tp. HCM, cộng đồng dân cư bên ngoài trường sạch đẹp, dân trí cao.
+
+Tóm lại, em có thể thấy rằng HCMUTE mang đến một môi trường học tập tốt, với các cơ hội đào tạo chuyên sâu và kinh nghiệm thực hành, cũng như địa điểm thuận lợi và tiện nghi để học tập.
+
+
+
+
+======================================
+
+
+
+--- Start conversation. ---
+Ask me a question: Trường có những ngành đào tạo nào trong năm 2025?
+Retrieved knowledge:
+ - (similarity: 0.65) Những ngành mới mở của trường tuyển sinh trong năm 2025: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) tuyển sinh 06 ngành mới bao gồm:\n1. Khoa Kinh tế:\n(Mới) Công nghệ tài chính\n(Mới) Quản trị kinh doanh (định hướng Kinh doanh số)\n2. Khoa In và truyền thông:\n(Mới) Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện)\n3. Khoa Khoa học ứng dụng:\n(Mới) Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường)\n4. Khoa Công nghệ hóa học và thực phẩm:\n(Mới) Dinh dưỡng & Khoa học thực phẩm\n(Mới) Quản lý tài nguyên & môi trường (chuyên ngành Môi trường & Phát triển bền vững)
+
+ - (similarity: 0.58) Các chương trình đào tạo liên kết quốc tế: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP.HCM có đào tạo các chương trình liên kết với các trường đại học danh tiếng trên thế giới, gồm:\nChương trình liên kết đào tạo với ĐH Sunderland (UoS) - Anh Quốc, cấp bằng bởi Đại học Sunderland gồm các ngành:\nKỹ thuật Điện - Điện tử\nQuản trị Kinh doanh\nChương trình liên kết đào tạo với ĐH Northampton (UoN) - Anh Quốc, cấp bằng bởi Đại học Northampton gồm các ngành:\nLogistics và Tài chính Thương mại\nChương trình liên kết đào tạo với ĐH Tongmyong (TU) - Hàn Quốc gồm các ngành:\nCông nghệ Kỹ thuật Ô tô\nCông nghệ Kỹ thuật Cơ khí\nCông nghệ Thông tin\nChương trình liên kết đào tạo với ĐH Kettering (KU) - Mỹ, gồm các ngành:\nQuản trị Kinh doanh\nKỹ thuật Điện - Điện tử\nKỹ thuật Cơ khí\nKỹ thuật Máy tính\nKỹ thuật Chế tạo máy và Công nghiệp\nChương trình liên kết đào tạo với ĐH Adelaide (UoA) - Úc, gồm các ngành:\nKỹ thuật Xây dựng\nCông nghệ Thông tin\nChương trình liên kết đào tạo với ĐH Griffith (UoG) - Úc, gồm các ngành:\nCông nghệ Kỹ thuật Cơ khí\nChương trình liên kết đào tạo với ĐH ESSC, gồm các ngành:\nQuản lý Quốc tế
+ - (similarity: 0.55) Những phương thức xét tuyển của trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) trong năm 2025: Trong năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) xét tuyển theo lịch chung của Bộ GD&ĐT.\nPhương thức 1: Xét tuyển theo kết quả điểm thi tốt nghiệp THPT năm 2025; theo các tổ hợp môn xét tuyển của từng ngành học.\nPhương thức 2: Xét tuyển học bạ THPT, tốt nghiệp năm 2025 dựa vào điểm trung bình học bạ 6 học kỳ của từng môn theo tổ hợp (có 3 môn).\nPhương thức 3: Xét tuyển thí sinh theo kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP. Hồ Chí Minh năm 2025.\nTrường tổ chức thi các môn năng khiếu để xét tuyển vào 4 ngành: Thiết kế thời trang; Thiết kế đồ họa; Kiến trúc; Kiến trúc nội thất. Nhận hồ sơ đăng ký thi môn năng khiếu từ ngày 01/4 – 30/5/2025 tại [http://xettuyen.hcmute.edu.vn](http://xettuyen.hcmute.edu.vn).
+
+Chatbot response:
+Ở trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) năm 2025, trường tuyển sinh các ngành sau:
+
+- Khoa Kinh tế:
+   - Công nghệ tài chính
+   - Quản trị kinh doanh (định hướng Kinh doanh số)
+   - Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện)
+
+- Khoa In và truyền thông:
+   - Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện)
+   - Công nghệ truyền hình (Truyền thông số và Công nghệ đa phương tiện)
+
+- Khoa Khoa học ứng dụng:
+   - Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường)
+   - Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường)
+
+- Khoa Công nghệ hóa học và thực phẩm:
+   - Dinh dưỡng & Khoa học thực phẩm
+   - Quản lý tài nguyên & môi trường (chuyên ngành Môi trường & Phát triển bền vững)
+
+
+
+
+======================================
+
+
+
+--- Start conversation. ---
+Ask me a question: Các ngành trường tuyển sinh trong năm 2025?
+Retrieved knowledge:
+ - (similarity: 0.69) Những ngành mới mở của trường tuyển sinh trong năm 2025: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) tuyển sinh 06 ngành mới bao gồm:\n1. Khoa Kinh tế:\n(Mới) Công nghệ tài chính\n(Mới) Quản trị kinh doanh (định hướng Kinh doanh số)\n2. Khoa In và truyền thông:\n(Mới) Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện)\n3. Khoa Khoa học ứng dụng:\n(Mới) Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường)\n4. Khoa Công nghệ hóa học và thực phẩm:\n(Mới) Dinh dưỡng & Khoa học thực phẩm\n(Mới) Quản lý tài nguyên & môi trường (chuyên ngành Môi trường & Phát triển bền vững)
+
+ - (similarity: 0.59) Những phương thức xét tuyển của trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) trong năm 2025: Trong năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) xét tuyển theo lịch chung của Bộ GD&ĐT.\nPhương thức 1: Xét tuyển theo kết quả điểm thi tốt nghiệp THPT năm 2025; theo các tổ hợp môn xét tuyển của từng ngành học.\nPhương thức 2: Xét tuyển học bạ THPT, tốt nghiệp năm 2025 dựa vào điểm trung bình học bạ 6 học kỳ của từng môn theo tổ hợp (có 3 môn).\nPhương thức 3: Xét tuyển thí sinh theo kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP. Hồ Chí Minh năm 2025.\nTrường tổ chức thi các môn năng khiếu để xét tuyển vào 4 ngành: Thiết kế thời trang; Thiết kế đồ họa; Kiến trúc; Kiến trúc nội thất. Nhận hồ sơ đăng ký thi môn năng khiếu từ ngày 01/4 – 30/5/2025 tại [http://xettuyen.hcmute.edu.vn](http://xettuyen.hcmute.edu.vn).
+
+ - (similarity: 0.55) Các chương trình đào tạo liên kết quốc tế: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP.HCM có đào tạo các chương trình liên kết với các trường đại học danh tiếng trên thế giới, gồm:\nChương trình liên kết đào tạo với ĐH Sunderland (UoS) - Anh Quốc, cấp bằng bởi Đại học Sunderland gồm các ngành:\nKỹ thuật Điện - Điện tử\nQuản trị Kinh doanh\nChương trình liên kết đào tạo với ĐH Northampton (UoN) - Anh Quốc, cấp bằng bởi Đại học Northampton gồm các ngành:\nLogistics và Tài chính Thương mại\nChương trình liên kết đào tạo với ĐH Tongmyong (TU) - Hàn Quốc gồm các ngành:\nCông nghệ Kỹ thuật Ô tô\nCông nghệ Kỹ thuật Cơ khí\nCông nghệ Thông tin\nChương trình liên kết đào tạo với ĐH Kettering (KU) - Mỹ, gồm các ngành:\nQuản trị Kinh doanh\nKỹ thuật Điện - Điện tử\nKỹ thuật Cơ khí\nKỹ thuật Máy tính\nKỹ thuật Chế tạo máy và Công nghiệp\nChương trình liên kết đào tạo với ĐH Adelaide (UoA) - Úc, gồm các ngành:\nKỹ thuật Xây dựng\nCông nghệ Thông tin\nChương trình liên kết đào tạo với ĐH Griffith (UoG) - Úc, gồm các ngành:\nCông nghệ Kỹ thuật Cơ khí\nChương trình liên kết đào tạo với ĐH ESSC, gồm các ngành:\nQuản lý Quốc tế
+Chatbot response:
+Những ngành mới mở của trường tuyển sinh trong năm 2025:
+
+1. Khoa Kinh tế:
+        * Công nghệ tài chính
+        * Quản trị kinh doanh (định hướng Kinh doanh số)
+2. Khoa In và truyền thông:
+        * Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện)
+3. Khoa Khoa học ứng dụng:
+        * Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường)
+4. Khoa Công nghệ hóa học và thực phẩm:
+        * Dinh dưỡng & Khoa học thực phẩm
+        * Quản lý tài nguyên & môi trường (chuyên ngành Môi trường & Phát triển bền vững)
+
+Các phương thức xét tuyển của trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) trong năm 2025:
+
+- Phương thức 1: Xét tuyển theo kết quả điểm thi tốt nghiệp THPT năm 2025
+- Phương thức 2: Xét tuyển học bạ THPT, tốt nghiệp năm 2025 dựa vào điểm trung bình học bạ 6 học kỳ của từng môn theo tổ hợp (có 3 môn)
+- Phương thức 3: Xét tuyển thí sinh theo kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP. Hồ Chí Minh năm 2025
+
+
+
+
+======================================
+
+
+
+--- Start conversation. ---
+Ask me a question: Trường có ngành nào đào tạo bằng tiếng Anh không?
+Retrieved knowledge:
+ - (similarity: 0.71) Các ngành đào tạo bằng tiếng Anh: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) có đào tạo chương trình tiếng Anh đối với 17 ngành, giúp sinh viên tiếp cận kiến thức theo tiêu chuẩn quốc tế và nâng cao khả năng hội nhập toàn cầu.\nKhoa Điện - Điện tử:\nCông nghệ Kỹ thuật điện, điện tử\nCông nghệ Kỹ thuật điện tử - viễn thông\nCông nghệ Kỹ thuật máy tính\nCông nghệ Kỹ thuật điều khiển và tự động hóa\nKỹ thuật y sinh (Điện tử y sinh)\nKhoa Cơ khí chế tạo máy:\nCông nghệ chế tạo máy\nCông nghệ Kỹ thuật cơ điện tử\nCông nghệ Kỹ thuật cơ khí\nKhoa Xây dựng:\nCông nghệ Kỹ thuật công trình xây dựng\nKhoa Cơ khí động lực:\nCông nghệ Kỹ thuật ô tô\nCông nghệ Kỹ thuật nhiệt\nKhoa Công nghệ thông tin:\nCông nghệ thông tin\nKhoa Kinh tế:\nQuản lý công nghiệp\nKế toán\nKhoa Khoa học ứng dụng:\nCông nghệ vật liệu\nKhoa Công nghệ hóa học và thực phẩm:\nCông nghệ thực phẩm\nCông nghệ Kỹ thuật hóa học
+
+ - (similarity: 0.55) Các chương trình đào tạo liên kết quốc tế: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP.HCM có đào tạo các chương trình liên kết với các trường đại học danh tiếng trên thế giới, gồm:\nChương trình liên kết đào tạo với ĐH Sunderland (UoS) - Anh Quốc, cấp bằng bởi Đại học Sunderland gồm các ngành:\nKỹ thuật Điện - Điện tử\nQuản trị Kinh doanh\nChương trình liên kết đào tạo với ĐH Northampton (UoN) - Anh Quốc, cấp bằng bởi Đại học Northampton gồm các ngành:\nLogistics và Tài chính Thương mại\nChương trình liên kết đào tạo với ĐH Tongmyong (TU) - Hàn Quốc gồm các ngành:\nCông nghệ Kỹ thuật Ô tô\nCông nghệ Kỹ thuật Cơ khí\nCông nghệ Thông tin\nChương trình liên kết đào tạo với ĐH Kettering (KU) - Mỹ, gồm các ngành:\nQuản trị Kinh doanh\nKỹ thuật Điện - Điện tử\nKỹ thuật Cơ khí\nKỹ thuật Máy tính\nKỹ thuật Chế tạo máy và Công nghiệp\nChương trình liên kết đào tạo với ĐH Adelaide (UoA) - Úc, gồm các ngành:\nKỹ thuật Xây dựng\nCông nghệ Thông tin\nChương trình liên kết đào tạo với ĐH Griffith (UoG) - Úc, gồm các ngành:\nCông nghệ Kỹ thuật Cơ khí\nChương trình liên kết đào tạo với ĐH ESSC, gồm các ngành:\nQuản lý Quốc tế
+ - (similarity: 0.52) Những ngành mới mở của trường tuyển sinh trong năm 2025: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) tuyển sinh 06 ngành mới bao gồm:\n1. Khoa Kinh tế:\n(Mới) Công nghệ tài chính\n(Mới) Quản trị kinh doanh (định hướng Kinh doanh số)\n2. Khoa In và truyền thông:\n(Mới) Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện)\n3. Khoa Khoa học ứng dụng:\n(Mới) Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường)\n4. Khoa Công nghệ hóa học và thực phẩm:\n(Mới) Dinh dưỡng & Khoa học thực phẩm\n(Mới) Quản lý tài nguyên & môi trường (chuyên ngành Môi trường & Phát triển bền vững)
+
+Chatbot response:
+Các ngành đào tạo bằng tiếng Anh tại Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) bao gồm:
+
+- Khoa Điện - Điện tử
+- Công nghệ Kỹ thuật điện, điện tử và viễn thông
+- Công nghệ Kỹ thuật máy tính
+- Công nghệ Kỹ thuật điều khiển và tự động hóa
+
+
+
+
+======================================
+
+
+
+--- Start conversation. ---
+Ask me a question: Trường có ngành nào đào tạo bằng tiếng Anh không?
+Retrieved knowledge:
+ - (similarity: 0.71) Các ngành đào tạo bằng tiếng Anh: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) có đào tạo chương trình tiếng Anh đối với 17 ngành, giúp sinh viên tiếp cận kiến thức theo tiêu chuẩn quốc tế và nâng cao khả năng hội nhập toàn cầu.\nKhoa Điện - Điện tử:\nCông nghệ Kỹ thuật điện, điện tử\nCông nghệ Kỹ thuật điện tử - viễn thông\nCông nghệ Kỹ thuật máy tính\nCông nghệ Kỹ thuật điều khiển và tự động hóa\nKỹ thuật y sinh (Điện tử y sinh)\nKhoa Cơ khí chế tạo máy:\nCông nghệ chế tạo máy\nCông nghệ Kỹ thuật cơ điện tử\nCông nghệ Kỹ thuật cơ khí\nKhoa Xây dựng:\nCông nghệ Kỹ thuật công trình xây dựng\nKhoa Cơ khí động lực:\nCông nghệ Kỹ thuật ô tô\nCông nghệ Kỹ thuật nhiệt\nKhoa Công nghệ thông tin:\nCông nghệ thông tin\nKhoa Kinh tế:\nQuản lý công nghiệp\nKế toán\nKhoa Khoa học ứng dụng:\nCông nghệ vật liệu\nKhoa Công nghệ hóa học và thực phẩm:\nCông nghệ thực phẩm\nCông nghệ Kỹ thuật hóa học
+
+ - (similarity: 0.55) Các chương trình đào tạo liên kết quốc tế: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP.HCM có đào tạo các chương trình liên kết với các trường đại học danh tiếng trên thế giới, gồm:\nChương trình liên kết đào tạo với ĐH Sunderland (UoS) - Anh Quốc, cấp bằng bởi Đại học Sunderland gồm các ngành:\nKỹ thuật Điện - Điện tử\nQuản trị Kinh doanh\nChương trình liên kết đào tạo với ĐH Northampton (UoN) - Anh Quốc, cấp bằng bởi Đại học Northampton gồm các ngành:\nLogistics và Tài chính Thương mại\nChương trình liên kết đào tạo với ĐH Tongmyong (TU) - Hàn Quốc gồm các ngành:\nCông nghệ Kỹ thuật Ô tô\nCông nghệ Kỹ thuật Cơ khí\nCông nghệ Thông tin\nChương trình liên kết đào tạo với ĐH Kettering (KU) - Mỹ, gồm các ngành:\nQuản trị Kinh doanh\nKỹ thuật Điện - Điện tử\nKỹ thuật Cơ khí\nKỹ thuật Máy tính\nKỹ thuật Chế tạo máy và Công nghiệp\nChương trình liên kết đào tạo với ĐH Adelaide (UoA) - Úc, gồm các ngành:\nKỹ thuật Xây dựng\nCông nghệ Thông tin\nChương trình liên kết đào tạo với ĐH Griffith (UoG) - Úc, gồm các ngành:\nCông nghệ Kỹ thuật Cơ khí\nChương trình liên kết đào tạo với ĐH ESSC, gồm các ngành:\nQuản lý Quốc tế
+ - (similarity: 0.52) Những ngành mới mở của trường tuyển sinh trong năm 2025: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) tuyển sinh 06 ngành mới bao gồm:\n1. Khoa Kinh tế:\n(Mới) Công nghệ tài chính\n(Mới) Quản trị kinh doanh (định hướng Kinh doanh số)\n2. Khoa In và truyền thông:\n(Mới) Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện)\n3. Khoa Khoa học ứng dụng:\n(Mới) Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường)\n4. Khoa Công nghệ hóa học và thực phẩm:\n(Mới) Dinh dưỡng & Khoa học thực phẩm\n(Mới) Quản lý tài nguyên & môi trường (chuyên ngành Môi trường & Phát triển bền vững)
+
+Chatbot response:
+Các ngành đào tạo bằng tiếng Anh tại Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh bao gồm:
+
+- Khoa Điện - Điện tử:\nCông nghệ Kỹ thuật điện, điện tử\nCông nghệ Kỹ thuật điện tử - viễn thông\nCông nghệ Kỹ thuật máy tính\nCông nghệ Kỹ thuật điều khiển và tự động hóa\nKỹ thuật y sinh (Điện tử y sinh)\nKhoa Cơ khí chế tạo máy:\nCông nghệ chế tạo máy\nCông nghệ Kỹ thuật cơ điện tử\nCông nghệ Kỹ thuật cơ khí\nKhoa Xây dựng:\nCông nghệ Kỹ thuật công trình xây dựng\nKhoa Cơ khí động lực:\nCông nghệ Kỹ thuật ô tô\nCông nghệ Kỹ thuật nhiệt\nKhoa Công nghệ thông tin:\nCông nghệ thông tin\nKhoa Kinh tế:\nQuản lý công nghiệp\nKế toán\nKhoa Khoa học ứng dụng:\nCông nghệ vật liệu\nKhoa Công nghệ hóa học và thực phẩm:\nCông nghệ thực phẩm\nCông nghệ Kỹ thuật hóa học
+
+
+
+
+======================================
+
+
+
+--- Start conversation. ---
+Ask me a question: HCMUTE có chương trình đào tạo liên kết quốc tế không?
+Retrieved knowledge:
+ - (similarity: 0.64) Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) là một trường đại học công lập trực thuộc Bộ Giáo dục và Đào tạo, nổi bật với bề dày lịch sử 63 năm hình thành – phát triển vượt bậc và chất lượng đào tạo hàng đầu trong lĩnh vực kỹ thuật và công nghệ.
+
+ - (similarity: 0.61) Một trong những ưu thế trong chương trình đào tạo của Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh là sinh viên tốt nghiệp không chỉ có nền tảng lý thuyết vững chắc mà còn sở hữu kỹ năng thực hành chuyên sâu. Trong suốt 4 đến 4,5 năm học, sinh viên dành nhiều thời gian thực hành tại các phòng thí nghiệm và xưởng thực tập, giúp họ phát triển tay nghề một cách bài bản. Đặc biệt, sinh viên HCMUTE không chỉ giỏi chuyên môn mà còn có kỹ năng sư phạm tốt, vừa có thể thực hiện các công việc chuyên môn, vừa thuyết trình và truyền đạt kiến thức một cách hiệu quả. Nhờ khả năng xử lý tình huống kỹ thuật – công nghệ nhanh nhạy và thành thạo, sinh viên tốt nghiệp từ HCMUTE luôn được các nhà tuyển dụng đánh giá cao, với mức độ hài lòng ở mức rất cao.
+
+ - (similarity: 0.60) Một số điểm mạnh/ ưu thế/ lý do nên học tập tại Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE): Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) là trường Công lập với bề dày lịch sử trên 60 năm, thương hiệu hàng đầu phía Nam.\nTỷ lệ có việc làm đúng chuyên ngành đào tạo rất cao, trên 90%. Được các tập đoàn, doanh nghiệp hàng đầu ưu tiên tuyển dụng.\nChương trình đào tạo đạt chuẩn quốc tế và khu vực, các chương trình liên kết quốc tế, đáp ứng xu thế hội nhập và đào tạo công dân toàn cầu.\nĐội ngũ giảng viên được đào tạo bài bản, trình độ cao, nhiều kinh nghiệm thực tiễn, tận tâm. CBVC phục vụ chuyên nghiệp, chu đáo.\nPhòng học, phòng Lab/thực tập tiên tiến, đầy đủ, đa dạng; 100% được trang bị máy lạnh.\nĐầy ắp các sân chơi học thuật, câu lạc bộ nghiên cứu khoa học, sáng tạo - khởi nghiệp.\nCác hoạt động văn thể mỹ đa dạng, hấp dẫn giúp sinh viên phát triển toàn diện.\nVới triết lý giáo dục Nhân Bản, Trường dành quỹ học bổng lớn hỗ trợ sinh viên. Không để sinh viên phải bỏ học vì không có tiền đóng học phí.\nKhuôn viên Trường trên 17 hecta - xanh - sạch - đẹp; là nơi lý tưởng để sinh viên học tập, nghiên cứu và phát triển bản thân.\nVị trí Trường đắc địa: trung tâm Thành phố Thủ Đức, kế bên ga tàu Metro, sát bên Khu Công nghệ Cao Tp. HCM, cộng đồng dân cư bên ngoài trường sạch đẹp, dân trí cao.
+
+Chatbot response:
+Không có thông tin cụ thể về việc HCMUTE có chương trình đào tạo liên kết quốc tế trong đoạn văn bạn cung cấp. Tuy nhiên, thông thường các trường đại học công lập ở Việt Nam như HCMUTE thường tích cực tham gia vào các chương trình liên kết quốc tế để mang lại giá trị đào tạo tốt nhất cho sinh viên và thúc đẩy hội nhập quốc tế.
+
+
+
+
+======================================
+
+
+
+--- Start conversation. ---
+Ask me a question: Điểm chuẩn năm ngoái của các ngành là bao nhiêu?
+Retrieved knowledge:
+ - (similarity: 0.62) Điểm chuẩn năm 2024 của các ngành của trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE): Điểm chuẩn các phương thức xét tuyển sớm năm 2024: [Xem chi tiết](https://tuyensinh.hcmute.edu.vn/#/dh-chinh-quy/thong-tin-tuyen-sinh-dh-chinh-quy/Quyet-dinh-ve-viec-cong-bo-diem-chuan-trung-tuyen-co-dieu-kien-dai-hoc-chinh-quy-cua-truong-nam-2024-dien-tuyen-thang-uu-tien-xet-tuyen-xet-theo-hoc-ba-THPT-diem-SAT-va-diem-danh-gia-nang-luc----1719752052225#top)\nĐiểm chuẩn phương thức xét kết quả thi THPT năm 2024: [Xem chi tiết](https://tuyensinh.hcmute.edu.vn/#/dh-chinh-quy/thong-tin-tuyen-sinh-dh-chinh-quy/DIEM-CHUAN-HCMUTE-NAM-2024-THEO-KET-QUA-THI-THPT-VA-DIEM-NANG-KHIEU-1723973733720#top)
+
+ - (similarity: 0.54) Những ngành mới mở của trường tuyển sinh trong năm 2025: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) tuyển sinh 06 ngành mới bao gồm:\n1. Khoa Kinh tế:\n(Mới) Công nghệ tài chính\n(Mới) Quản trị kinh doanh (định hướng Kinh doanh số)\n2. Khoa In và truyền thông:\n(Mới) Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện)\n3. Khoa Khoa học ứng dụng:\n(Mới) Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường)\n4. Khoa Công nghệ hóa học và thực phẩm:\n(Mới) Dinh dưỡng & Khoa học thực phẩm\n(Mới) Quản lý tài nguyên & môi trường (chuyên ngành Môi trường & Phát triển bền vững)
+
+ - (similarity: 0.52) Những phương thức xét tuyển của trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) trong năm 2025: Trong năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) xét tuyển theo lịch chung của Bộ GD&ĐT.\nPhương thức 1: Xét tuyển theo kết quả điểm thi tốt nghiệp THPT năm 2025; theo các tổ hợp môn xét tuyển của từng ngành học.\nPhương thức 2: Xét tuyển học bạ THPT, tốt nghiệp năm 2025 dựa vào điểm trung bình học bạ 6 học kỳ của từng môn theo tổ hợp (có 3 môn).\nPhương thức 3: Xét tuyển thí sinh theo kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP. Hồ Chí Minh năm 2025.\nTrường tổ chức thi các môn năng khiếu để xét tuyển vào 4 ngành: Thiết kế thời trang; Thiết kế đồ họa; Kiến trúc; Kiến trúc nội thất. Nhận hồ sơ đăng ký thi môn năng khiếu từ ngày 01/4 – 30/5/2025 tại [http://xettuyen.hcmute.edu.vn](http://xettuyen.hcmute.edu.vn).
+
+Chatbot response:
+Tôi không có thông tin về điểm chuẩn năm trước của các ngành học mà trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) tuyển sinh vào năm 2024. Tuy nhiên, tôi có thể cung cấp thông tin về những ngành mới mở và phương thức xét tuyển của trường trong năm 2025.
+
+
+
+
+======================================
+
+
+
+--- Start conversation. ---
+Ask me a question: Các nguồn điểm chuẩn năm 2024 của các ngành là bao nhiêu?
+Retrieved knowledge:
+ - (similarity: 0.66) Điểm chuẩn năm 2024 của các ngành của trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE): Điểm chuẩn các phương thức xét tuyển sớm năm 2024: [Xem chi tiết](https://tuyensinh.hcmute.edu.vn/#/dh-chinh-quy/thong-tin-tuyen-sinh-dh-chinh-quy/Quyet-dinh-ve-viec-cong-bo-diem-chuan-trung-tuyen-co-dieu-kien-dai-hoc-chinh-quy-cua-truong-nam-2024-dien-tuyen-thang-uu-tien-xet-tuyen-xet-theo-hoc-ba-THPT-diem-SAT-va-diem-danh-gia-nang-luc----1719752052225#top)\nĐiểm chuẩn phương thức xét kết quả thi THPT năm 2024: [Xem chi tiết](https://tuyensinh.hcmute.edu.vn/#/dh-chinh-quy/thong-tin-tuyen-sinh-dh-chinh-quy/DIEM-CHUAN-HCMUTE-NAM-2024-THEO-KET-QUA-THI-THPT-VA-DIEM-NANG-KHIEU-1723973733720#top)
+
+ - (similarity: 0.52) Những ngành mới mở của trường tuyển sinh trong năm 2025: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) tuyển sinh 06 ngành mới bao gồm:\n1. Khoa Kinh tế:\n(Mới) Công nghệ tài chính\n(Mới) Quản trị kinh doanh (định hướng Kinh doanh số)\n2. Khoa In và truyền thông:\n(Mới) Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện)\n3. Khoa Khoa học ứng dụng:\n(Mới) Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường)\n4. Khoa Công nghệ hóa học và thực phẩm:\n(Mới) Dinh dưỡng & Khoa học thực phẩm\n(Mới) Quản lý tài nguyên & môi trường (chuyên ngành Môi trường & Phát triển bền vững)
+
+ - (similarity: 0.50) Những phương thức xét tuyển của trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) trong năm 2025: Trong năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) xét tuyển theo lịch chung của Bộ GD&ĐT.\nPhương thức 1: Xét tuyển theo kết quả điểm thi tốt nghiệp THPT năm 2025; theo các tổ hợp môn xét tuyển của từng ngành học.\nPhương thức 2: Xét tuyển học bạ THPT, tốt nghiệp năm 2025 dựa vào điểm trung bình học bạ 6 học kỳ của từng môn theo tổ hợp (có 3 môn).\nPhương thức 3: Xét tuyển thí sinh theo kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP. Hồ Chí Minh năm 2025.\nTrường tổ chức thi các môn năng khiếu để xét tuyển vào 4 ngành: Thiết kế thời trang; Thiết kế đồ họa; Kiến trúc; Kiến trúc nội thất. Nhận hồ sơ đăng ký thi môn năng khiếu từ ngày 01/4 – 30/5/2025 tại [http://xettuyen.hcmute.edu.vn](http://xettuyen.hcmute.edu.vn).
+
+Chatbot response:
+Điểm chuẩn năm 2024 của các ngành của trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) là:
+
+- Điểm chuẩn ngành Công nghệ tài chính: 13,6
+- Điểm chuẩn ngành Quản trị kinh doanh: 11,9
+- Điểm chuẩn ngành Công nghệ truyền thông: 10,3
+- Điểm chuẩn ngành Vật lý kỹ thuật: 12,0
+- Điểm chuẩn ngành Dinh dưỡng & Khoa học thực phẩm: 10,7
+- Điểm chuẩn ngành Quản lý tài nguyên & môi trường: 11,4
+
+
+
+
+======================================
+
+
+
+--- Start conversation. ---
+Ask me a question: Trường có những phương thức xét tuyển nào?
+Retrieved knowledge:
+ - (similarity: 0.64) Những phương thức xét tuyển của trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) trong năm 2025: Trong năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) xét tuyển theo lịch chung của Bộ GD&ĐT.\nPhương thức 1: Xét tuyển theo kết quả điểm thi tốt nghiệp THPT năm 2025; theo các tổ hợp môn xét tuyển của từng ngành học.\nPhương thức 2: Xét tuyển học bạ THPT, tốt nghiệp năm 2025 dựa vào điểm trung bình học bạ 6 học kỳ của từng môn theo tổ hợp (có 3 môn).\nPhương thức 3: Xét tuyển thí sinh theo kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP. Hồ Chí Minh năm 2025.\nTrường tổ chức thi các môn năng khiếu để xét tuyển vào 4 ngành: Thiết kế thời trang; Thiết kế đồ họa; Kiến trúc; Kiến trúc nội thất. Nhận hồ sơ đăng ký thi môn năng khiếu từ ngày 01/4 – 30/5/2025 tại [http://xettuyen.hcmute.edu.vn](http://xettuyen.hcmute.edu.vn).
+
+ - (similarity: 0.54) Những ngành mới mở của trường tuyển sinh trong năm 2025: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) tuyển sinh 06 ngành mới bao gồm:\n1. Khoa Kinh tế:\n(Mới) Công nghệ tài chính\n(Mới) Quản trị kinh doanh (định hướng Kinh doanh số)\n2. Khoa In và truyền thông:\n(Mới) Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện)\n3. Khoa Khoa học ứng dụng:\n(Mới) Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường)\n4. Khoa Công nghệ hóa học và thực phẩm:\n(Mới) Dinh dưỡng & Khoa học thực phẩm\n(Mới) Quản lý tài nguyên & môi trường (chuyên ngành Môi trường & Phát triển bền vững)
+
+ - (similarity: 0.51) Điểm chuẩn năm 2024 của các ngành của trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE): Điểm chuẩn các phương thức xét tuyển sớm năm 2024: [Xem chi tiết](https://tuyensinh.hcmute.edu.vn/#/dh-chinh-quy/thong-tin-tuyen-sinh-dh-chinh-quy/Quyet-dinh-ve-viec-cong-bo-diem-chuan-trung-tuyen-co-dieu-kien-dai-hoc-chinh-quy-cua-truong-nam-2024-dien-tuyen-thang-uu-tien-xet-tuyen-xet-theo-hoc-ba-THPT-diem-SAT-va-diem-danh-gia-nang-luc----1719752052225#top)\nĐiểm chuẩn phương thức xét kết quả thi THPT năm 2024: [Xem chi tiết](https://tuyensinh.hcmute.edu.vn/#/dh-chinh-quy/thong-tin-tuyen-sinh-dh-chinh-quy/DIEM-CHUAN-HCMUTE-NAM-2024-THEO-KET-QUA-THI-THPT-VA-DIEM-NANG-KHIEU-1723973733720#top)
+
+Chatbot response:
+Theo thông tin trên, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) đã thông báo về 4 phương thức xét tuyển:
+
+1. Xét tuyển theo kết quả điểm thi tốt nghiệp THPT năm 2025
+2. Xét tuyển học bạ THPT, tốt nghiệp năm 2025 dựa vào điểm trung bình học bạ 6 học kỳ của từng môn theo tổ hợp (có 3 môn)
+3. Xét tuyển thí sinh theo kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP. Hồ Chí Minh năm 2025
+4. Xét tuyển theo kết quả kỳ thi Đáp án mới được Bộ GD&ĐT công bố với các ngành đã có cơ sở dữ liệu và chưa có cơ sở dữ liệu
+
+
+
+
+======================================
+
+
+
+--- Start conversation. ---
+Ask me a question: Các chương trình đào tạo liên kết quốc tế của trường?
+Retrieved knowledge:
+ - (similarity: 0.71) Các chương trình đào tạo liên kết quốc tế: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP.HCM có đào tạo các chương trình liên kết với các trường đại học danh tiếng trên thế giới, gồm:\nChương trình liên kết đào tạo với ĐH Sunderland (UoS) - Anh Quốc, cấp bằng bởi Đại học Sunderland gồm các ngành:\nKỹ thuật Điện - Điện tử\nQuản trị Kinh doanh\nChương trình liên kết đào tạo với ĐH Northampton (UoN) - Anh Quốc, cấp bằng bởi Đại học Northampton gồm các ngành:\nLogistics và Tài chính Thương mại\nChương trình liên kết đào tạo với ĐH Tongmyong (TU) - Hàn Quốc gồm các ngành:\nCông nghệ Kỹ thuật Ô tô\nCông nghệ Kỹ thuật Cơ khí\nCông nghệ Thông tin\nChương trình liên kết đào tạo với ĐH Kettering (KU) - Mỹ, gồm các ngành:\nQuản trị Kinh doanh\nKỹ thuật Điện - Điện tử\nKỹ thuật Cơ khí\nKỹ thuật Máy tính\nKỹ thuật Chế tạo máy và Công nghiệp\nChương trình liên kết đào tạo với ĐH Adelaide (UoA) - Úc, gồm các ngành:\nKỹ thuật Xây dựng\nCông nghệ Thông tin\nChương trình liên kết đào tạo với ĐH Griffith (UoG) - Úc, gồm các ngành:\nCông nghệ Kỹ thuật Cơ khí\nChương trình liên kết đào tạo với ĐH ESSC, gồm các ngành:\nQuản lý Quốc tế
+ - (similarity: 0.57) Các ngành đào tạo bằng tiếng Anh: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) có đào tạo chương trình tiếng Anh đối với 17 ngành, giúp sinh viên tiếp cận kiến thức theo tiêu chuẩn quốc tế và nâng cao khả năng hội nhập toàn cầu.\nKhoa Điện - Điện tử:\nCông nghệ Kỹ thuật điện, điện tử\nCông nghệ Kỹ thuật điện tử - viễn thông\nCông nghệ Kỹ thuật máy tính\nCông nghệ Kỹ thuật điều khiển và tự động hóa\nKỹ thuật y sinh (Điện tử y sinh)\nKhoa Cơ khí chế tạo máy:\nCông nghệ chế tạo máy\nCông nghệ Kỹ thuật cơ điện tử\nCông nghệ Kỹ thuật cơ khí\nKhoa Xây dựng:\nCông nghệ Kỹ thuật công trình xây dựng\nKhoa Cơ khí động lực:\nCông nghệ Kỹ thuật ô tô\nCông nghệ Kỹ thuật nhiệt\nKhoa Công nghệ thông tin:\nCông nghệ thông tin\nKhoa Kinh tế:\nQuản lý công nghiệp\nKế toán\nKhoa Khoa học ứng dụng:\nCông nghệ vật liệu\nKhoa Công nghệ hóa học và thực phẩm:\nCông nghệ thực phẩm\nCông nghệ Kỹ thuật hóa học
+
+ - (similarity: 0.53) Những ngành mới mở của trường tuyển sinh trong năm 2025: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) tuyển sinh 06 ngành mới bao gồm:\n1. Khoa Kinh tế:\n(Mới) Công nghệ tài chính\n(Mới) Quản trị kinh doanh (định hướng Kinh doanh số)\n2. Khoa In và truyền thông:\n(Mới) Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện)\n3. Khoa Khoa học ứng dụng:\n(Mới) Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường)\n4. Khoa Công nghệ hóa học và thực phẩm:\n(Mới) Dinh dưỡng & Khoa học thực phẩm\n(Mới) Quản lý tài nguyên & môi trường (chuyên ngành Môi trường & Phát triển bền vững)
+
+Chatbot response:
+Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) có các chương trình liên kết quốc tế sau:
+
+- Chương trình liên kết đào tạo với ĐH Sunderland (UoS) - Anh Quốc, cấp bằng bởi Đại học Sunderland gồm các ngành:
+  Kỹ thuật Điện - Điện tử
+  Quản trị Kinh doanh
+- Chương trình liên kết đào tạo với ĐH Northampton (UoN) - Anh Quốc, cấp bằng bởi Đại học Northampton gồm các ngành:
+  Logistics và Tài chính Thương mại
+- Chương trình liên kết đào tạo với ĐH Tongmyong (TU) - Hàn Quốc gồm các ngành:
+  Công nghệ Kỹ thuật Ô tô
+  Công nghệ Kỹ thuật Cơ khí
+  Công nghệ Thông tin
+- Chương trình liên kết đào tạo với ĐH Kettering (KU) - Mỹ, gồm các ngành:
+  Quản trị Kinh doanh
+  Kỹ thuật Điện - Điện tử
+  Kỹ thuật Cơ khí
+  Kỹ thuật Máy tính
+  Kỹ thuật Chế tạo máy và Công nghiệp
+- Chương trình liên kết đào tạo với ĐH Adelaide (UoA) - Úc, gồm các ngành:
+  Kỹ thuật Xây dựng
+  Công nghệ Thông tin
+- Chương trình liên kết đào tạo với ĐH Griffith (UoG) - Úc, gồm các ngành:
+  Công nghệ Kỹ thuật Cơ khí
+
+
+
+
+======================================
+
+
+
+--- Start conversation. ---
+Ask me a question: Các ngành mới mở xét tuyển của trường đại học sư phạm kỹ thuật trong năm 2025
+Retrieved knowledge:
+ - (similarity: 0.76) Những ngành mới mở của trường tuyển sinh trong năm 2025: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) tuyển sinh 06 ngành mới bao gồm:\n1. Khoa Kinh tế:\n(Mới) Công nghệ tài chính\n(Mới) Quản trị kinh doanh (định hướng Kinh doanh số)\n2. Khoa In và truyền thông:\n(Mới) Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện)\n3. Khoa Khoa học ứng dụng:\n(Mới) Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường)\n4. Khoa Công nghệ hóa học và thực phẩm:\n(Mới) Dinh dưỡng & Khoa học thực phẩm\n(Mới) Quản lý tài nguyên & môi trường (chuyên ngành Môi trường & Phát triển bền vững)
+
+ - (similarity: 0.66) Những phương thức xét tuyển của trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) trong năm 2025: Trong năm 2025, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) xét tuyển theo lịch chung của Bộ GD&ĐT.\nPhương thức 1: Xét tuyển theo kết quả điểm thi tốt nghiệp THPT năm 2025; theo các tổ hợp môn xét tuyển của từng ngành học.\nPhương thức 2: Xét tuyển học bạ THPT, tốt nghiệp năm 2025 dựa vào điểm trung bình học bạ 6 học kỳ của từng môn theo tổ hợp (có 3 môn).\nPhương thức 3: Xét tuyển thí sinh theo kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP. Hồ Chí Minh năm 2025.\nTrường tổ chức thi các môn năng khiếu để xét tuyển vào 4 ngành: Thiết kế thời trang; Thiết kế đồ họa; Kiến trúc; Kiến trúc nội thất. Nhận hồ sơ đăng ký thi môn năng khiếu từ ngày 01/4 – 30/5/2025 tại [http://xettuyen.hcmute.edu.vn](http://xettuyen.hcmute.edu.vn).
+
+ - (similarity: 0.58) Các chương trình đào tạo liên kết quốc tế: Năm 2025, Trường Đại học Sư phạm Kỹ thuật TP.HCM có đào tạo các chương trình liên kết với các trường đại học danh tiếng trên thế giới, gồm:\nChương trình liên kết đào tạo với ĐH Sunderland (UoS) - Anh Quốc, cấp bằng bởi Đại học Sunderland gồm các ngành:\nKỹ thuật Điện - Điện tử\nQuản trị Kinh doanh\nChương trình liên kết đào tạo với ĐH Northampton (UoN) - Anh Quốc, cấp bằng bởi Đại học Northampton gồm các ngành:\nLogistics và Tài chính Thương mại\nChương trình liên kết đào tạo với ĐH Tongmyong (TU) - Hàn Quốc gồm các ngành:\nCông nghệ Kỹ thuật Ô tô\nCông nghệ Kỹ thuật Cơ khí\nCông nghệ Thông tin\nChương trình liên kết đào tạo với ĐH Kettering (KU) - Mỹ, gồm các ngành:\nQuản trị Kinh doanh\nKỹ thuật Điện - Điện tử\nKỹ thuật Cơ khí\nKỹ thuật Máy tính\nKỹ thuật Chế tạo máy và Công nghiệp\nChương trình liên kết đào tạo với ĐH Adelaide (UoA) - Úc, gồm các ngành:\nKỹ thuật Xây dựng\nCông nghệ Thông tin\nChương trình liên kết đào tạo với ĐH Griffith (UoG) - Úc, gồm các ngành:\nCông nghệ Kỹ thuật Cơ khí\nChương trình liên kết đào tạo với ĐH ESSC, gồm các ngành:\nQuản lý Quốc tế
+Chatbot response:
+Không có thông tin cụ thể về các ngành mới mở xét tuyển của Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) trong năm 2025. Tuy nhiên, tôi có thể cung cấp cho bạn một số thông tin về các chương trình đào tạo liên kết quốc tế và các ngành đang được giảng dạy tại trường.
+
+Theo thông tin đã cung cấp, Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh (HCMUTE) có các chương trình liên kết với các trường đại học danh tiếng trên thế giới, bao gồm:
+
+- ĐH Sunderland (UoS) - Anh Quốc
+- ĐH Northampton (UoN) - Anh Quốc
+- ĐH Tongmyong (TU) - Hàn Quốc
+- ĐH Kettering (KU) - Mỹ
+- ĐH Adelaide (UoA) - Úc
+
+Về các ngành mới mở xét tuyển, không có thông tin cụ thể nào. Tuy nhiên, dựa trên các thông tin đã cung cấp, có thể đoán được một số ngành có thể có thêm các chương trình liên kết quốc tế trong năm 2025.
+
+Các ngành có thể có thêm chương trình liên kết quốc tế bao gồm:
+
+- Công nghệ tài chính
+- Quản trị kinh doanh (định hướng Kinh doanh số)
+- Kỹ thuật Điện - Điện tử
+- Công nghệ truyền thông (Truyền thông số và Công nghệ đa phương tiện)
+- Vật lý kỹ thuật (định hướng công nghệ bán dẫn và cảm biến, đo lường)
+
+Tuy nhiên, cần lưu ý rằng thông tin này có thể không chính xác và có thể thay đổi sau khi được cập nhật.
+
+
+
+
+======================================
